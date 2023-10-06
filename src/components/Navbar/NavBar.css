@@ -1,0 +1,16 @@
+.nav{
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+    padding: 10px 2rem;
+}
+.nav img{
+    width: 68px;
+}
+.nav a{
+    color: #fff;
+    text-decoration: none;
+}
+.nav a:hover{
+    color: red;
+}
