@@ -264,7 +264,7 @@ font-size: 21px;
 
 
 
-@media screen and (max-width: 917px) {
+@media screen and (max-width: 917px){
     .link-name {
       gap: 30px;
     }
