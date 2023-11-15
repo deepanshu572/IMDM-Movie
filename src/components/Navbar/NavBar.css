@@ -1,7 +1,7 @@
 .nav{
     display: flex;
     align-items: center;
-    gap: 3rem;
+    gap: 15px;
     padding: 10px 2rem;
 }
 .nav img{
@@ -13,4 +13,12 @@
 }
 .nav a:hover{
     color: red;
+}
+
+
+
+@media screen and (max-width: 400px) {
+.nav {
+    gap: 12px;
+}
 }
